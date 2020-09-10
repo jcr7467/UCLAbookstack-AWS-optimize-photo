@@ -1,0 +1,1 @@
+# UCLAbookstack-AWS-optimize-photo-and-upload-to-optimized-S3-bucket
